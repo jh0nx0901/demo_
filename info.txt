@@ -1,0 +1,2 @@
+Este archivo es informativo
+sirve para ilustrar el uso de GIt y GitHub
