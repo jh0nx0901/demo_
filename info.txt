@@ -1,2 +1,5 @@
 Este archivo es informativo
 sirve para ilustrar el uso de GIt y GitHub
+
+
+Es necesario tener Git en tu computadora
